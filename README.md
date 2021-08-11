@@ -14,4 +14,4 @@ The goal is to use your keyboard arrow keys to navigate the snake to its food (t
 
 ## Getting started
 * Clone the `git` repo 
-* Run the game in the terminal with the command `python main.py`
+* Run the game in your terminal using the command `python main.py`
